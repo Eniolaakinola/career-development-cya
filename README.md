@@ -25,12 +25,12 @@ required deliberate effort — no bulk-applying.
 | # | Company | Role | Date Applied | Status | Link |
 |---|---------|------|--------------|--------|------|
 | 1 | SEL (Schweitzer Engineering) | Software Engineering Intern | | | [careers](https://selinc.com/company/careers/) |
-| 2 | BECU | Software Developer Intern | | | [careers](https://becu.wd1.myworkdayjobs.com/External) |
+| 2 | BECU | Software Developer Intern |3/30/2026 |under review | [careers](https://becu.wd1.myworkdayjobs.com/External) |
 | 3 | Avista | Software Engineering Intern | | | [careers](https://myavista.com/careers) |
 | 4 | Amazon | SDE Intern | | | [careers](https://amazon.jobs) |
 | 5 | Cloudflare | Software Engineer Intern | | | [careers](https://cloudflare.com/careers/jobs/) |
 | 6 | Intel | Software Engineering Intern | | | [careers](https://intel.wd1.myworkdayjobs.com/External) |
-| 7 | Harder Mechanical | CS Intern | | | [careers](https://hardermechanical.com/careers) |
+| 7 | Harder Mechanical | CS Intern |3/30/2026 |Under review | [careers](https://hardermechanical.com/careers) |
 
 ## Materials
 
