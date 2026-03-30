@@ -24,7 +24,7 @@ required deliberate effort — no bulk-applying.
 
 | # | Company | Role | Date Applied | Status | Link |
 |---|---------|------|--------------|--------|------|
-| 1 | SEL (Schweitzer Engineering) | Software Engineering Intern | | | [careers](https://selinc.com/company/careers/) |
+| 1 | SEL (Schweitzer Engineering) | Process Engineering Intern | 3/29/2026 | Phone Interview On 4/3/2026| [careers](https://selinc.com/company/careers/) |
 | 2 | BECU | Software Developer Intern |3/30/2026 |under review | [careers](https://becu.wd1.myworkdayjobs.com/External) |
 | 3 | Avista | Software Engineering Intern | | | [careers](https://myavista.com/careers) |
 | 4 | Amazon | SDE Intern | | | [careers](https://amazon.jobs) |
