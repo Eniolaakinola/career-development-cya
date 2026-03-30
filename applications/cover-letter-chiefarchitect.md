@@ -1,14 +1,15 @@
-November 12, 2025 
-Eniola Akinola 
-eniola.akinola@wsu.edu 
-Pullman, WA 
-Hiring Team 
-Chief Architect Software 
-6500 N Mineral Dr 
-Coeur d’Alene, ID 83815 
-(208) 292-3400 
-Subject: Application for Software Engineering Internship 
-Dear Hiring Team, 
+Eniola Akinola
+Eniola.akinola@wsu.edu | (360)-562-7917
+LinkedIn: linkedin.com/in/eniola-akinola-659167354 | GitHub: https://github.com/Eniolaakinola
+
+November 12,2025
+
+Hiring Team
+Chief Architect Software
+6500 N Mineral Dr
+Coeur d'Alene, ID 83815
+
+Dear Chief Architect Hiring Team,
 I am writing to apply for the Software Engineering Internship at Chief Architect Software. I am 
 currently pursuing a Bachelor of Science in Software Engineering at Washington State 
 University, where I have developed strong skills in software design, data structures, and 
@@ -24,5 +25,6 @@ would welcome the opportunity to contribute to your development team while learn
 your engineers’ expertise in professional design software. 
 Thank you for considering my application. I look forward to the opportunity to discuss how my 
 skills and passion align with your team’s goals. 
+
 Sincerely, 
-Eniola Akinola 
+Eniola Akinola
