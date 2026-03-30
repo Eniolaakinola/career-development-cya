@@ -40,7 +40,7 @@ required deliberate effort — no bulk-applying.
 - [Cover Letter — Avista](applications/cover-letter-avista.md)
 - [Cover Letter — Amazon](applications/cover-letter-amazon.md)
 - [Cover Letter — Cloudflare](applications/cover-letter-cloudflare.md)
-- [Cover Letter — Intel](applications/cover-letter-intel.md)
+- [Cover Letter — Chief Architect](applications/cover-letter-chiefarchitect.md)
 - [Cover Letter — Harder Mechanical](applications/cover-letter-harder-mechanical.md)
 - [Proof / Screenshots](proof/screenshots/)
 
